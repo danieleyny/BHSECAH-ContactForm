@@ -58,3 +58,7 @@ input
   background-color: darkred;
   cursor: pointer;
 }
+.darkred
+{
+  color:darkred;
+}
